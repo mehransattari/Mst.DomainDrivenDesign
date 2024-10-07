@@ -12,7 +12,7 @@
     <Copyright>2024</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://mehransattary.ir</PackageProjectUrl>
-    <RepositoryUrl>https://github.com</RepositoryUrl>
+    <RepositoryUrl>https://github.com/mehransattari/Mst.DomainDrivenDesign</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>DDD,Domain,Driven,Design,Framework,MediatR,Repository,UnitOfWork,DomainEvent</PackageTags>
     <Version>1.0.0</Version>
