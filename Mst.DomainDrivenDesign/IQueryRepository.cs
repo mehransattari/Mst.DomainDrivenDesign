@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace Mst.DDD;
+namespace Mst.DomainDrivenDesign;
 
 public interface IQueryRepository<T> where T : IAggregateRoot
 {

@@ -1,5 +1,4 @@
-﻿
-namespace Mst.DDD;
+﻿namespace Mst.DomainDrivenDesign;
 public interface IUnitOfWork : IDisposable
 {
     bool IsDisposed { get; }
